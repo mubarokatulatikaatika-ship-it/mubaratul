@@ -9,7 +9,7 @@ color: #191970;/* warna teks utama (Biru gelap) *
   margin: 50px auto;: /*50px jarak atas/bawah,auto menengahkan kiri/kanan */
 padding : 20px:
   background-color: white
-  border-radius: 15px; / *membuat sudut menjadi selengkung */
+  border-radius: 15px; / *membuat sudut menjadi melengkung */
   box-shadow: 0 4px bpx rgba (0,0,0,0.1); / * efek bayangan */ 
   text-aligan : center,
 }
