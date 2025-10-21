@@ -6,3 +6,5 @@ tombolsapa.addEventlistener('click', function() {
   alert('Halo! Terimakasih sudah berkunjung!');
   {);
                             
+// 1. selec the button and the body 
+cont the
